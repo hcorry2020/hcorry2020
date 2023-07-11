@@ -5,7 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/hcorry2020/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/hcorry2020//post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/hcorry2020/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/hcorry2020/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hcorry2020/azure-network-protocols)
